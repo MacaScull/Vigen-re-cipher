@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Cryptography\Vigenere cipher\Vigenere cipher\Source.cpp(34,23): warning C4018: '<': signed/unsigned mismatch
+D:\Cryptography\Vigenere cipher\Vigenere cipher\Source.cpp(40,18): warning C4018: '>': signed/unsigned mismatch
+  Vigenere cipher.vcxproj -> D:\Cryptography\Vigenere cipher\Debug\Vigenere cipher.exe
